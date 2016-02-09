@@ -1,0 +1,28 @@
+# MacOS garbage
+.DS_Store
+
+# temp files
+*~*
+
+# files for the dex VM
+*.dex
+
+# Java class files
+*.class
+
+# generated files
+bin/
+gen/
+build/
+
+# Intellij project files
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Gradle
+.gradle
+
+# git submodules
+libraries/
